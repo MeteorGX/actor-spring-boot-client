@@ -1,0 +1,17 @@
+[
+  {
+	"id": 0,
+	"name": "登录界面",
+	"resource": "res://scene/login/main.tscn"
+  },
+  {
+	"id": 1,
+	"name": "创角界面",
+	"resource": "res://scene/create/main.tscn"
+  },
+  {
+	"id": 100,
+	"name": "玩家首页",
+	"resource": "res://scene/home/main.tscn"
+  }
+]

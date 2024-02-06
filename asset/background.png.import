@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dryqngnwjhf4k"
-path="res://.godot/imported/Forest Lake 02.png-1b67edf804aba3cec76592137f937604.ctex"
+uid="uid://depl1ja1jnd8l"
+path="res://.godot/imported/background.png-80e7786174ff00a2c3198286b7ad39c5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset/Forest Lake/Forest Lake 02.png"
-dest_files=["res://.godot/imported/Forest Lake 02.png-1b67edf804aba3cec76592137f937604.ctex"]
+source_file="res://asset/background.png"
+dest_files=["res://.godot/imported/background.png-80e7786174ff00a2c3198286b7ad39c5.ctex"]
 
 [params]
 
